@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\bin\Debug\net7.0\Decimal-to-Octal.exe
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\bin\Debug\net7.0\Decimal-to-Octal.deps.json
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\bin\Debug\net7.0\Decimal-to-Octal.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\bin\Debug\net7.0\Decimal-to-Octal.dll
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\bin\Debug\net7.0\Decimal-to-Octal.pdb
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.dll
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\refint\Decimal-to-Octal.dll
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.pdb
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\Decimal-to-Octal.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Decimal-to-Octal\obj\Debug\net7.0\ref\Decimal-to-Octal.dll
